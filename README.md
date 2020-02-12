@@ -22,8 +22,6 @@ $ yarn start
 ```
 
 ### Build
-
-before build make sure to change from `"homepage" : "http://almirpask.github.io/recipeslist"` to `"homepage" : ".",` on `package.json` then run:
 ```bash 
 $ yarn build
 ```
