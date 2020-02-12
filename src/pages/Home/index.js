@@ -75,8 +75,7 @@ export default function Home() {
                       {recipe.fields.title}
                     </Typography>
                     <Typography variant="body2" color="textSecondary" component="p" className={classes.cardDescription}>
-                      Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging
-                      across all continents except Antarctica
+                      {`${recipe.fields.description.substring(0,100)}...`}
                     </Typography>
                   </CardContent>
                 </CardActionArea>              
