@@ -2,7 +2,7 @@
   "name": "marley_spoon_api",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://almirpask.github.io/recipelist",
+  "homepage" : ".",
   "dependencies": {
     "@material-ui/core": "^4.9.2",
     "@testing-library/jest-dom": "^4.2.4",
